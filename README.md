@@ -28,7 +28,7 @@
 - 😊 I'm Dulith uvinda
 - 🧑‍🎓 22 years old
 - 💻 Interested in HTML, CSS, JavaScript, C, Web developing, SQL , adobe serious and more...
-- 📘 Currently studying BIT univercity of moratuwa
+- 📘 Currently studying BIT univercity of Moratuwa
 - 💕 Looking to collaborate on building websites, web apps, mobile app developing and more...
 - 📧 Email me at (Dulithuvinda2002@gmail.com)
 - 📷 Follow me on Instagram: [@D_uvi_nda](https://www.instagram.com/d_uvi_nda/profilecard/?igsh=OTI5cDNyODN6aDZw)
