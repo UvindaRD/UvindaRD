@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #1e1e2c; padding: 20px; border-radius: 8px; color: white;">
 
   <div style="flex: 1; min-width: 300px; margin: 10px; background-color: #282c34; border-radius: 8px; padding: 20px;">
-    <h2 style="text-align: center;">VehanRajintha's GitHub Stats</h2>
+    <h2 style="text-align: center;">Dulith's GitHub Stats</h2>
     <ul style="list-style: none; padding: 0;">
       <li><strong>Total Stars Earned:</strong> 324</li>
       <li><strong>Total Commits (2024):</strong> 751</li>
