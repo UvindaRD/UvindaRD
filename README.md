@@ -33,4 +33,5 @@
 - 💕 Looking to collaborate on building websites, web apps, mobile app developing and more...
 - 📧 Email me at (Dulithuvinda2002@gmail.com)
 - 📷 Follow me on Instagram: [@D_uvi_nda](https://www.instagram.com/d_uvi_nda/profilecard/?igsh=OTI5cDNyODN6aDZw)
+- Show in my linkedin profile :www.linkedin.com/in/dulith-uvinda-731253325
 - 💬 Text me on WhatsApp: +94714037214
