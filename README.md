@@ -10,9 +10,9 @@
     <ul style="list-style: none; padding: 0;">
       <li><span style="color: #e34c26;"></span> HTML 73.02%</li>
       <li><span style="color: #7f52ff;"></span> Kotlin 10.01%</li>
-      <li><span style="color: #264de4;"></span> CSS 7.38%</li>
-      <li><span style="color: #4f5d95;"></span> PHP 6.39%</li>
-      <li><span style="color: #8695a4;"></span> python 0.91%</li>
+      <li><span style="color: #264de4;"></span> CSS 70.38%</li>
+      <li><span style="color: #4f5d95;"></span> PHP 75.39%</li>
+      <li><span style="color: #8695a4;"></span> python 10.91%</li>
       <li><span style="color: #89e051;"></span> Adobe PS 60.72%</li>
       <li><span style="color: #89e051;"></span> Adobe AI 70.00%</li>
       <li><span style="color: #89e051;"></span> Adobe Animate 90.10%</li>
